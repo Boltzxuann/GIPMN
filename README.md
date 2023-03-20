@@ -11,4 +11,4 @@ c) deep graph libary : https://www.dgl.ai/
 d) meteva : https://www.showdoc.com.cn/meteva/3975600102516402
 <br>
 ## How to Use
-Just run `train_main.py` , the model will begin training. There is a tiny dataset with 20 examples used for demonstrate the training process.
+Just run `train_main.py` , a single GIPMN model will begin training. There is a tiny dataset with 10 examples used for demonstrate the training process.
