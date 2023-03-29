@@ -4,7 +4,7 @@ Codes for "A Structured Graph Neural Network for Improving the Numerical Weather
 ## Environmental Settings
 a) anaconda & jupyter notebook : https://www.anaconda.com/products/individual 
 <br>
-b)PyTorch : https://pytorch.org/
+b) PyTorch : https://pytorch.org/
 <br>
 c) deep graph libary : https://www.dgl.ai/
 <br>
